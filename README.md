@@ -1,11 +1,11 @@
 ### Olá, sou Alessandre Livramento  👋  
 
 <p>
-Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. Atualmente mais focado em React Native com o Ignite da Rocketseat. Tenho interesse em iOS nativo, e estou a procura da primeira vaga na área 
+Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. Atualmente mais focado em React Native com o Ignite da Rocketseat. Tenho interesse em iOS nativo, e estou a procura da primeira vaga na área. 
 </p>
 
 <div align="left">
-  <a href="https://github.com/rafaballerini">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandre74&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandre74&layout=compact&langs_count=7&theme=dracula"/>
 </div>
