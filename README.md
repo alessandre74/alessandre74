@@ -1,7 +1,7 @@
 ### Olá, meu nome é  Alessandre Livramento  👋  
 
 <p>
-Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. Atualmente mais focado em React Native com o Ignite da Rocketseat. Também tenho interesse em iOS nativo, e estou a procura da primeira vaga na área. 
+Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. Atualmente mais focado em Swift e SwiftUI com a Irmandade Swift e 100 Days Of SwiftUI. Estou a procura da primeira vaga na área. 
 </p>
 
 
