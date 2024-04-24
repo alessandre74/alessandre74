@@ -1,7 +1,7 @@
 ### Olá, meu nome é  Alessandre Livramento  👋  
 
 <p>
-Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. Atualmente estudando também Swift e SwiftUI com a Irmandade Swift e 100 Days Of SwiftUI. Estou a procura da primeira vaga na área. 
+Desde 2019 venho estudando as tecnologias React, React Native e NodeJs. 
 </p>
 
 
